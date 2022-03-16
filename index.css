@@ -1,0 +1,17 @@
+body{
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.table{
+    padding: 10px;
+    background: orange;
+    border-radius: 5px;
+}
+
+img{
+    border-radius: 5px;
+    padding: 2px;
+}
